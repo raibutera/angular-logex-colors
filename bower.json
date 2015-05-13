@@ -1,0 +1,18 @@
+{
+  "name": "angular-logex-colors",
+  "version": "0.1.0",
+  "homepage": "https://github.com/raibutera/angular-logex-colors",
+  "authors": [
+    "Raimondo Butera <rai@rbutera.com>"
+  ],
+  "description": "custom colors for angular-logex",
+  "main": "angular-logex.json",
+  "keywords": [
+    "angular",
+    "logex",
+    "log",
+    "extender",
+    "colors"
+  ],
+  "license": "MIT"
+}
