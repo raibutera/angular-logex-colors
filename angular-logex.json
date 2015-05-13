@@ -1,0 +1,25 @@
+{
+    "standard": {
+        "assertive": "background: #FFFFFF; color: #e51c23;",
+        "assertive-block": "color: #FFFFFF; background: #B71C1C;",
+        "positive": "background: #FFFFFF; color: #1565C0;",
+        "positive-block": "color: #FFFFFF; background: #1976D2;",
+        "energized": "background: #FFFFFF; color: #F57F17;",
+        "energized-block": "color: #212121; background: #FFEB3B;",
+        "dark": "background: #FFF; color: #212121",
+        "dark-block": "color: #FFF; background: #424242",
+        "light": "background: #fff; color: #9e9e9e;",
+        "light-block": "color: #212121; background: #9e9e9e;",
+        "subdued": "background: #fff; color: #607d8b;",
+        "subdued-block": "color: #212121; background: #78909C;",
+        "geocities": "color: #990099; background: #FFFFCC;",
+        "badass": "color: #bada55; background: #222;"
+    },
+    "custom": {
+        "log": "",
+        "info": "",
+        "warn": "",
+        "error": "",
+        "debug": ""
+    }
+}
